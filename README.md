@@ -6,4 +6,4 @@ Download the Apk file on your Android phone and just install the App via it. In 
 ### Through this project I've learned -
 * **Maps and Geolocation**
 * **Getting User's Location**
-* **Getting Information from user's location*8
+* **Getting Information from user's location**
